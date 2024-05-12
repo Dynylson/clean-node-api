@@ -11,6 +11,8 @@
   "description": "",
   "devDependencies": {
     "@types/node": "^20.12.11",
+    "eslint": "^8.57.0",
+    "eslint-config-standard": "^17.1.0",
     "git-commit-msg-linter": "^5.0.7",
     "typescript": "^5.4.5"
   }
